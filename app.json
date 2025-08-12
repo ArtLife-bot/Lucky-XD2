@@ -1,8 +1,8 @@
 {
-  "name": "LUCKY-XD",
+  "name": "M23",
   "description": "Javascript WhatsApp bot made by Lucky Tech Hub",
   "logo": "https://files.catbox.moe/4itzeu.jpg",
-  "keywords": ["LUCKY-XD"],
+  "keywords": ["M23"],
   "success_url": "/",
 
     "stack": "container",
@@ -16,7 +16,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "LUCKY-XD"
+      "value": "M23"
     }, 
       
     "PREFIX": {
@@ -86,20 +86,20 @@
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": true,
-      "value": "Lucky 218"
+      "value": "M23"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": true,
-      "value": "256789966218"
+      "value": "27687651136"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": true,
-      "value": "LUCKY-XD"
+      "value": "M23"
 
       }, 
 
