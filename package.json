@@ -1,12 +1,12 @@
 {
-  "name": "LUCKY XD",
+  "name": "M23",
   "version": "1.0.0",
   "description": "THE BEST BOT IN THE UNIVERSE",
   "main": "index.js",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name LUCKY-XD",
-    "stop": "pm2 stop LUCKY-XD",
-    "restart": "pm2 restart LUCKY-XD"
+    "stop": "pm2 stop M23",
+    "restart": "pm2 restart M23"
   },
   "dependencies": {
       "@whiskeysockets/baileys": "github:EdderBot02/bail",
