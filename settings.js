@@ -6,7 +6,7 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "lucky~aQ1H1YIQ#PynIEoYolgphyRNWBrTRP3X6n4dyWNvKxXWkMYg9aq0",
+SESSION_ID: process.env.SESSION_ID || "lucky~HQtgWYbR#LRzsjxJ-90gJk4EW3cA1wnhP5Bhy9kSHOH-505E9IB0",
 // add your Session Id make sure it starts with lucky~
 PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot   
@@ -52,7 +52,7 @@ LINK_WHITELIST: "youtube.com,github.com",
        ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/4itzeu.jpg",
 // add img for alive msg
 
-        LIVE_MSG: process.env.LIVE_MSG || "> ʙᴏᴛ ɪs sᴘᴀʀᴋɪɴɢ ᴀᴄᴛɪᴠᴇ ᴀɴᴅ ᴀʟɪᴠᴇ\n\n\nᴋᴇᴇᴘ ᴜsɪɴɢ ✦LUCKY-XD✦ ғʀᴏᴍ M23 ɪɴᴄ⚡\n\n\n*© ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ - ᴍᴅ\n\n> ɢɪᴛʜᴜʙ :* github.com/Tomilucky218/Lucky-XD2",
+        LIVE_MSG: process.env.LIVE_MSG || "> ʙᴏᴛ ɪs sᴘᴀʀᴋɪɴɢ ᴀᴄᴛɪᴠᴇ ᴀɴᴅ ᴀʟɪᴠᴇ\n\n\nᴋᴇᴇᴘ ᴜsɪɴɢ ✦M23⚠️✦ ғʀᴏᴍ M23 ɪɴᴄ⚡\n\n\n*© ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ - ᴍᴅ\n\n> ɢɪᴛʜᴜʙ :* github.com/Tomilucky218/Lucky-XD2",
 // add alive msg here 
 
 
@@ -74,7 +74,7 @@ LINK_WHITELIST: "youtube.com,github.com",
 OWNER_NAME: process.env.OWNER_NAME || "M23⚠️",
 // add bot owner name
 
-              DESCRIPTION: process.env.DESCRIPTION || "*© Powered By Lucky Tech Hub*",
+              DESCRIPTION: process.env.DESCRIPTION || "*© Powered By M23⚠️*",
 // add bot owner name    
 
         READ_MESSAGE: process.env.READ_MESSAGE || "false",
